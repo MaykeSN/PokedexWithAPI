@@ -1,0 +1,13 @@
+C:\_Programas C#\PokedexWinForms\PokedexWinForms\bin\Debug\PokedexWinForms.exe.config
+C:\_Programas C#\PokedexWinForms\PokedexWinForms\bin\Debug\PokedexWinForms.exe
+C:\_Programas C#\PokedexWinForms\PokedexWinForms\bin\Debug\PokedexWinForms.pdb
+C:\_Programas C#\PokedexWinForms\PokedexWinForms\obj\Debug\PokedexWinForms.csproj.AssemblyReference.cache
+C:\_Programas C#\PokedexWinForms\PokedexWinForms\obj\Debug\PokedexWinForms.Properties.Resources.resources
+C:\_Programas C#\PokedexWinForms\PokedexWinForms\obj\Debug\PokedexWinForms.csproj.GenerateResource.cache
+C:\_Programas C#\PokedexWinForms\PokedexWinForms\obj\Debug\PokedexWinForms.csproj.CoreCompileInputs.cache
+C:\_Programas C#\PokedexWinForms\PokedexWinForms\obj\Debug\PokedexWinForms.exe
+C:\_Programas C#\PokedexWinForms\PokedexWinForms\obj\Debug\PokedexWinForms.pdb
+C:\_Programas C#\PokedexWinForms\PokedexWinForms\bin\Debug\Newtonsoft.Json.dll
+C:\_Programas C#\PokedexWinForms\PokedexWinForms\bin\Debug\Newtonsoft.Json.xml
+C:\_Programas C#\PokedexWinForms\PokedexWinForms\obj\Debug\PokedexW.23D9672C.Up2Date
+C:\_Programas C#\PokedexWinForms\PokedexWinForms\obj\Debug\PokedexWinForms.frmPokedex.resources
