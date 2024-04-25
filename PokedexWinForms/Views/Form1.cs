@@ -67,8 +67,8 @@ namespace PokedexWinForms
                     var content = response.Content.ReadAsStringAsync().Result;
                     JObject json = JObject.Parse(content);
 
-                    //string habilities = (string)json["abilities"][0]["ability"]["name"];
                     urlGif = (string)json["sprites"]["versions"]["generation-v"]["black-white"]["animated"]["front_default"];
+
                     try
                     {
                         poke.typeOne = (string)json["types"][0]["type"]["name"];
@@ -104,6 +104,7 @@ namespace PokedexWinForms
             {
                 MessageBox.Show("Erro ao carregar a imagem: " + ex.Message);
             }
+
             return null;
         }
         private void BtnLoad(object sender, EventArgs e)
@@ -144,5 +145,6 @@ namespace PokedexWinForms
             public string typeOne {  get; set; }   
             public string typeTwo { get; set; }
         }
+
     }
 }

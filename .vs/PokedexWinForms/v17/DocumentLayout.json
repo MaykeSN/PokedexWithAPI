@@ -9,6 +9,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{95390516-B489-4868-9C15-CF78933969FB}|PokedexWinForms\\PokedexWinForms.csproj|c:\\_programas c#\\pokedexwinforms\\pokedexwinforms\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95390516-B489-4868-9C15-CF78933969FB}|PokedexWinForms\\PokedexWinForms.csproj|solutionrelative:pokedexwinforms\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95390516-B489-4868-9C15-CF78933969FB}|PokedexWinForms\\PokedexWinForms.csproj|C:\\_Programas C#\\PokedexWinForms\\pokedexwinforms\\models\\pokemons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95390516-B489-4868-9C15-CF78933969FB}|PokedexWinForms\\PokedexWinForms.csproj|solutionrelative:pokedexwinforms\\models\\pokemons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95390516-B489-4868-9C15-CF78933969FB}|PokedexWinForms\\PokedexWinForms.csproj|c:\\_programas c#\\pokedexwinforms\\pokedexwinforms\\views\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95390516-B489-4868-9C15-CF78933969FB}|PokedexWinForms\\PokedexWinForms.csproj|solutionrelative:pokedexwinforms\\views\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +42,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\_Programas C#\\PokedexWinForms\\PokedexWinForms\\Views\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PokedexWinForms\\Views\\Form1.Designer.cs",
+              "ToolTip": "C:\\_Programas C#\\PokedexWinForms\\PokedexWinForms\\Views\\Form1.Designer.cs",
+              "RelativeToolTip": "PokedexWinForms\\Views\\Form1.Designer.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAlwDQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T00:11:44.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pokemons.cs",
+              "DocumentMoniker": "C:\\_Programas C#\\PokedexWinForms\\PokedexWinForms\\Models\\Pokemons.cs",
+              "RelativeDocumentMoniker": "PokedexWinForms\\Models\\Pokemons.cs",
+              "ToolTip": "C:\\_Programas C#\\PokedexWinForms\\PokedexWinForms\\Models\\Pokemons.cs",
+              "RelativeToolTip": "PokedexWinForms\\Models\\Pokemons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:42:01.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\_Programas C#\\PokedexWinForms\\PokedexWinForms\\Views\\Form1.cs",
               "RelativeDocumentMoniker": "PokedexWinForms\\Views\\Form1.cs",
               "ToolTip": "C:\\_Programas C#\\PokedexWinForms\\PokedexWinForms\\Views\\Form1.cs",
               "RelativeToolTip": "PokedexWinForms\\Views\\Form1.cs",
-              "ViewState": "AQIAAHUAAAAAAAAAAAAIwIMAAABDAAAA",
+              "ViewState": "AQIAAHkAAAAAAAAAAADwv5MAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T23:27:07.689Z",
               "EditorCaption": ""
